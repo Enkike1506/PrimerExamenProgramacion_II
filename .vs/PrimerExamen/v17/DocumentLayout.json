@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaki2\\source\\repos\\PrimerExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40318503-1522-4200-9DEE-78F0B1AE1AF0}|PrimerExamen\\PrimerExamen.csproj|C:\\Users\\vaki2\\source\\repos\\PrimerExamen\\primerexamen\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40318503-1522-4200-9DEE-78F0B1AE1AF0}|PrimerExamen\\PrimerExamen.csproj|solutionrelative:primerexamen\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40318503-1522-4200-9DEE-78F0B1AE1AF0}|PrimerExamen\\PrimerExamen.csproj|C:\\Users\\vaki2\\source\\repos\\PrimerExamen\\primerexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40318503-1522-4200-9DEE-78F0B1AE1AF0}|PrimerExamen\\PrimerExamen.csproj|solutionrelative:primerexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40318503-1522-4200-9DEE-78F0B1AE1AF0}|PrimerExamen\\PrimerExamen.csproj|c:\\users\\vaki2\\source\\repos\\primerexamen\\primerexamen\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40318503-1522-4200-9DEE-78F0B1AE1AF0}|PrimerExamen\\PrimerExamen.csproj|solutionrelative:primerexamen\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\PrimerExamen\\PrimerExamen\\Program.cs",
+              "RelativeDocumentMoniker": "PrimerExamen\\Program.cs",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\PrimerExamen\\PrimerExamen\\Program.cs",
+              "RelativeToolTip": "PrimerExamen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:59:24.014Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\PrimerExamen\\PrimerExamen\\Menu.cs",
+              "RelativeDocumentMoniker": "PrimerExamen\\Menu.cs",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\PrimerExamen\\PrimerExamen\\Menu.cs",
+              "RelativeToolTip": "PrimerExamen\\Menu.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwG8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:07:04.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\PrimerExamen\\PrimerExamen\\Empleado.cs",
+              "RelativeDocumentMoniker": "PrimerExamen\\Empleado.cs",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\PrimerExamen\\PrimerExamen\\Empleado.cs",
+              "RelativeToolTip": "PrimerExamen\\Empleado.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAcwMIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:00:44.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
